@@ -7,7 +7,7 @@ Big-O gösterimini yazınız.
 ---
 
 # Solution
-1. Steps
+## A. Steps
 [16,21,11,8,12,22] -> Merge Sort
 
   1. [16,21,11]  --- [8,12,22]        *** Divide element left and right ***
@@ -17,5 +17,5 @@ Big-O gösterimini yazınız.
   5. [11,16,21] ---- [8,12,22]        *** merge 2
   6. [8,11,12,16,21,22]               *** Merge completed and sorted. 
 
-2. Complexity 
+## B. Complexity 
 O (nlogn)
